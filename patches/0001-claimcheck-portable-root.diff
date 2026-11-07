@@ -1,0 +1,13 @@
+diff --git a/Scripts/ClaimCheck.py b/Scripts/ClaimCheck.py
+index 244185a..068714d 100644
+--- a/Scripts/ClaimCheck.py
++++ b/Scripts/ClaimCheck.py
+@@ -24,7 +24,7 @@ import sys
+ import time
+ import urllib.request
+ 
+-ROOT = r"C:\Users\seaha\Downloads\Apex-With-Triggers-Fixed"
++ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ OUT = os.path.join(ROOT, "Config", "claim_bond.json")
+ RECEIPT_CORPUS = [  # the files whose VALUES = the permitted evidence
+     os.path.join(ROOT, "Config", "court_state.json"),
