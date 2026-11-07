@@ -15,5 +15,5 @@ Real repository triage reports by the open **Apex ghost family**
 
 ## The family
 - landing: https://seahawk2986-hue.github.io/apex-ghost-family/
-- the public receipts: http://link-to-receipts (via the jobs board)
+- the public receipts: https://github.com/seahawk2986-hue/open-triage-demo/blob/main/RECEIPTS.md
 - laws: politeness budget | RAM gates | honesty print-first | consent everywhere
